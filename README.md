@@ -22,8 +22,11 @@ Please check to see if the assignment goals are met.
 
 # My Application 
 
+You can see a demo of postman here: <https://youtu.be/TIki4Fqrhzw>
+
+Please note that I am not sure how to use the POST, PUT, and DELETE routes. If you can explain, that would be much appreciated!
 
 
 # Purpose
 
-I believe the purpose of this assigment was to give me experience in creating databases and connecting to them. 
+I believe the purpose of this assigment was to give me experience in working with Express.js API to use Sequelize to interact with a MySQL database. I just don't quite understand how everything connects. It would be nice to learn when to use MySQl and Postman. 
