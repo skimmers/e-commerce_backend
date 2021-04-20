@@ -93,14 +93,14 @@ router.delete('/:id', (req, res) => {
   Tag.destroy({
     where: {
       id: req.params.id
-    }
+    },
   })
-    .then(tagData => {
-      if (!tagData) {
+    .then(dbTagData => {
+      if (!dbTagData) {
         res.status(404).json({ message: `No Tag found by that ID` });
         return;
       }
-      res.json(tagData);
+      res.json(dbTagData);
     })
     .catch(err => {
       console.log(err);
