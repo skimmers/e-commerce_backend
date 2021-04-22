@@ -4,7 +4,7 @@
 
 Go to this link: <https://github.com/skimmers/e-commerce_backend> and download the files. Then open the server.js file and run "npm start" in the integrated command line. 
 
-Please check to see if the assignment goals are met.
+Please check to see if the assignment goals are met. You can find a link to my demo video under the "My Application" section. 
 
 # Goal
 
@@ -22,11 +22,9 @@ Please check to see if the assignment goals are met.
 
 # My Application 
 
-You can see a demo of postman here: <https://youtu.be/TIki4Fqrhzw>
-
-Please note that I am not sure how to use the POST, PUT, and DELETE routes. If you can explain, that would be much appreciated!
+You can see a demo of postman here: <https://youtu.be/D44VBOLOwQk>
 
 
 # Purpose
 
-I believe the purpose of this assigment was to give me experience in working with Express.js API to use Sequelize to interact with a MySQL database. I just don't quite understand how everything connects. It would be nice to learn when to use MySQl and Postman. 
+I believe the purpose of this assigment was to give me experience in working with Express.js API to use Sequelize to interact with a MySQL database. 
